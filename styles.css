@@ -4,6 +4,11 @@ body {
   background: #f7fff5;
 }
 
+.lang {
+  text-align:right;
+  margin:1em;
+}
+
 h1, .nav {
   text-align: center;
 }
@@ -11,7 +16,7 @@ h1, .nav {
 h1 {
   font-family: "Roboto Slab", serif;
   font-weight: 300;
-  margin-top: 2em;
+  margin-top: 1em;
   font-size: 3em;
 }
 
